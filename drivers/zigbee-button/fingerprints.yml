@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: "Tuya/ESW-0ZBB-EU"
+    deviceLabel: Tuya Scene Switch
+    manufacturer: _TZ3000_w8jwkczz
+    model: TS0043
+    deviceProfileName: three-buttons-battery
